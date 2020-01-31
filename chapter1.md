@@ -23,7 +23,7 @@ No hay pistas :V
 
 `@pre_exercise_code`
 ```{python}
-
+import numpy as np
 ```
 
 `@sample_code`
@@ -35,12 +35,13 @@ No hay pistas :V
 ```{python}
 import numpy as np
 
-for a in alto:
+for a in range(1,15):
     for b in range(1,15):
         if b <= a:
             print("*", end = "")
         if b == a:
             print("")
+
 ```
 
 `@sct`
