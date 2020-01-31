@@ -19,7 +19,7 @@ Para este ejercicio, deberán de realizar un programa que pueda mostrar un trian
 
 
 `@hint`
-
+No hay pistas :V
 
 `@pre_exercise_code`
 ```{python}
